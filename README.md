@@ -31,7 +31,7 @@
     - [Module Federation](#module-federation)
     - [Federated Angular](#federated-angular)
     - [Panel](#panel)
-  - [Framework Inception with Micro Frontend Composition --> BULLSHIT TALK](#framework-inception-with-micro-frontend-composition----bullshit-talk)
+  - [Framework Inception with Micro Frontend Composition](#framework-inception-with-micro-frontend-composition)
   - [MFE Toolbox: Tips for building your micro frontend](#mfe-toolbox-tips-for-building-your-micro-frontend)
     - [Backstory](#backstory)
   - [MFE Panel](#mfe-panel)
@@ -644,7 +644,7 @@ Webpack 5 module federation means that microfrontends will not have to reload An
   - Tobias Koppers: It removes technical restrictions/limitations common to MFEs.
 - Scully can help with peformance by pre-renders each page in your app to plain HTML & CSS
 
-## Framework Inception with Micro Frontend Composition --> BULLSHIT TALK
+## Framework Inception with Micro Frontend Composition
 
 Presented by: Lukas Ruebbelke
 
